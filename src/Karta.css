@@ -1,0 +1,8 @@
+button {
+    background: none;
+    border: none;
+}
+button:hover {
+    opacity: 0.95;
+    cursor: pointer;
+}
